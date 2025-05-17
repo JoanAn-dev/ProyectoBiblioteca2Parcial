@@ -1,7 +1,7 @@
 <?php
    $dbhost = "localhost";
    $dbuser = "root";
-   $dbpass = "Miguel.1";
+   $dbpass = "";
    $dbname = "biblioteca";
    
    $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
