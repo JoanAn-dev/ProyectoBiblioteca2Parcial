@@ -44,7 +44,7 @@ El sistema de autenticación permite que el usuario acceda con un **código**, *
 ```php
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpass = "Miguel.1";
+$dbpass = "";
 $dbname = "biblioteca";
 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
